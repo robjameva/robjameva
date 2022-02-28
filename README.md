@@ -8,6 +8,9 @@ Hi my name is Rob, I am a web developer from New Jersey who loves all things tec
 - 📫 How to reach me: rob.evanik@gamil.com
 - ⚡ Fun fact: If I'm not coding... I am playing golf 🏌🏼‍♂️ or snowboarding 🏂
 
+[![Robs's GitHub stats](https://github-readme-stats.vercel.app/api?username=robjameva&show_icons=true&theme=tokyonight)](https://github.com/robjameva/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robjameva&layout=compact&theme=tokyonight)](https://github.com/robjameva/github-readme-stats)
 
 <!--
 **robjameva/robjameva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

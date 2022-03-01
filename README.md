@@ -26,9 +26,8 @@ Hi my name is Rob, I am a web developer from New Jersey who loves all things tec
 <br>
 
 ## 🎯 GitHub Stats
-<a href="https://github.com/robjameva/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robjameva&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/robjameva/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robjameva&layout=compact&theme=tokyonight" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=robjameva&show_icons=true&theme=tokyonight
+)](https://github.com/robjameva/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=robjameva&layout=compact&theme=tokyonight
+)](https://github.com/robjameva/github-readme-stats)

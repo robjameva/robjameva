@@ -3,20 +3,20 @@ Hi my name is Rob, I am a web developer from New Jersey who loves all things tec
 
 <br>
 
-## What I'm Up To
+## What I'm Up To 😄
 🔭 I’m currently working on a personal website to showcase my portfolio <br>
 🌱 I’m currently learning React <br>
 💬 Ask me about getting a job as a self taught developer <br>
 📫 How to reach me: rob.evanik@gamil.com <br>
 ⚡ Fun fact: If I'm not coding... I am playing golf 🏌🏼‍♂️ or snowboarding 🏂 <br> <br> <br>
 
-## 💯 Achievements
+## Achievements 💯
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robjameva&repo=Awards-Certifications-and-Certificates&theme=tokyonight
 )](https://github.com/robjameva/Awards-Certifications-and-Certificates)
 
 <br>
 
-## 👨🏻‍💻 My Favorite Projects
+## My Favorite Projects 👨🏻‍💻
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robjameva&repo=Easy-Res&theme=tokyonight
 )](https://github.com/robjameva/Easy-Res)
 
@@ -25,7 +25,7 @@ Hi my name is Rob, I am a web developer from New Jersey who loves all things tec
 
 <br>
 
-## 🎯 GitHub Stats
+## GitHub Stats 🎯
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=robjameva&show_icons=true&theme=tokyonight
 )](https://github.com/robjameva/github-readme-stats)
 

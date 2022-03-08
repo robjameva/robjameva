@@ -5,8 +5,8 @@ Hi my name is Rob, I am a web developer from New Jersey who loves all things tec
 
 ## What I'm Up To 😄
 🔭 I’m currently working on a personal website to showcase my portfolio <br>
-🌱 I’m currently learning React <br>
-💬 Ask me about getting a job as a self taught developer <br>
+🌱 What I am spendning the most time learning: React <br>
+💬 Ask me about how I got my first job as a self taught developer <br>
 📫 How to reach me: rob.evanik@gamil.com <br>
 ⚡ Fun fact: If I'm not coding... I am playing golf 🏌🏼‍♂️ or snowboarding 🏂 <br> <br> <br>
 

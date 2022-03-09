@@ -1,5 +1,7 @@
 # Hi there 👋
-Hi my name is Rob, I am a web developer from New Jersey who loves all things tech. I specialize in full stack JavaScript and have industry experience with Salesforce Apex.  Things I like include, building healthy habits, learning new things, and talking tech with fellow developers. 
+Hi my name is Rob, I am a web developer from New Jersey with a passion for technology.
+I specialize in full stack JavaScript development and have industry experience with Salesforce Apex.
+Interests include building healthy habits, learning new skills and connecting with fellow developers.
 
 <br>
 

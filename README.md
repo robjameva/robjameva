@@ -13,8 +13,8 @@ Interests include building healthy habits, learning new skills and connecting wi
 ⚡ Fun fact: If I'm not coding... I am playing golf 🏌🏼‍♂️ or snowboarding 🏂 <br> <br> <br>
 
 ## Achievements 💯
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robjameva&repo=Awards-Certifications-and-Certificates&theme=tokyonight
-)](https://github.com/robjameva/Awards-Certifications-and-Certificates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robjameva&repo=Achievements&theme=tokyonight
+)](https://github.com/robjameva/Achievements)
 
 <br>
 

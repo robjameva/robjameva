@@ -6,9 +6,9 @@ Interests include building healthy habits, learning new skills and connecting wi
 <br>
 
 ## What I'm Up To 😄
-🔭 I’m currently working on a personal website to showcase my portfolio <br>
-🌱 What I am learning: React <br>
-💬 Ask me about how I got my first job as a self taught developer <br>
+🔭 Job Searching: Seeking a Full Stack Web Development role <br>
+🌱 What I am currently learning: Redux <br>
+💬 Ask me about my experience at the Rutgers Univeristy Coding Bootcamp <br>
 📫 How to reach me: rob.evanik@gamil.com <br>
 ⚡ Fun fact: If I'm not coding... I am playing golf 🏌🏼‍♂️ or snowboarding 🏂 <br> <br> <br>
 
@@ -19,8 +19,8 @@ Interests include building healthy habits, learning new skills and connecting wi
 <br>
 
 ## My Favorite Projects 👨🏻‍💻
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robjameva&repo=Easy-Res&theme=tokyonight
-)](https://github.com/robjameva/Easy-Res)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robjameva&repo=easy-res-v2&theme=tokyonight
+)](https://github.com/robjameva/easy-res-v2)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robjameva&repo=Did-I-Win&theme=tokyonight
 )](https://github.com/robjameva/Did-I-Win)

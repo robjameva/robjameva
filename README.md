@@ -9,7 +9,7 @@ Interests include building healthy habits, learning new skills and connecting wi
 🔭 Job Searching: Seeking a Full Stack Web Development role <br>
 🌱 What I am currently learning: Redux <br>
 💬 Ask me about my experience at the Rutgers Univeristy Coding Bootcamp <br>
-📫 How to reach me: rob.evanik@gamil.com <br>
+📫 How to reach me: rob.evanik@gmail.com <br>
 ⚡ Fun fact: If I'm not coding... I am playing golf 🏌🏼‍♂️ or snowboarding 🏂 <br> <br> <br>
 
 ## Achievements 💯

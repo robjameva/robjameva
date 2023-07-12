@@ -1,14 +1,14 @@
 # Hi there 👋
 Hi my name is Rob, I am a web developer from New Jersey with a passion for technology.
-I specialize in full stack JavaScript development and have industry experience with Salesforce Apex.
-Interests include building healthy habits, learning new skills and connecting with fellow developers.
+I specialize in full stack JavaScript development and have industry experience with PHP, Python, & Salesforce Apex.
+Interests include building healthy habits, learning new skills and maintaining my personal project portfolio.
 
 <br>
 
 ## What I'm Up To 😄
 🔭 Job Searching: Seeking a Full Stack Web Development role <br>
-🌱 What I am currently learning: Redux <br>
-💬 Ask me about my experience at the Rutgers Univeristy Coding Bootcamp <br>
+🌱 What I am currently learning: Docker <br>
+💬 Ask me about my experience at AnalyticOwl <br>
 📫 How to reach me: rob.evanik@gmail.com <br>
 ⚡ Fun fact: If I'm not coding... I am playing golf 🏌🏼‍♂️ or snowboarding 🏂 <br> <br> <br>
 
@@ -22,8 +22,8 @@ Interests include building healthy habits, learning new skills and connecting wi
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robjameva&repo=easy-res-v2&theme=tokyonight
 )](https://github.com/robjameva/easy-res-v2)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robjameva&repo=Did-I-Win&theme=tokyonight
-)](https://github.com/robjameva/Did-I-Win)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robjameva&repo=tee-time-notifications&theme=tokyonight
+)](https://github.com/robjameva/tee-time-notifications)
 
 <br>
 

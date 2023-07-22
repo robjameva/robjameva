@@ -7,7 +7,7 @@ Interests include building healthy habits, learning new skills and maintaining m
 
 ## What I'm Up To 😄
 🔭 Job Searching: Seeking a Full Stack Web Development role <br>
-🌱 What I am currently learning: Docker <br>
+🌱 What I am currently learning: Go <br>
 💬 Ask me about my experience at AnalyticOwl <br>
 📫 How to reach me: rob.evanik@gmail.com <br>
 ⚡ Fun fact: If I'm not coding... I am playing golf 🏌🏼‍♂️ or snowboarding 🏂 <br> <br> <br>

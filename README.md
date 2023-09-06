@@ -6,7 +6,7 @@ Interests include building healthy habits, learning new skills and maintaining m
 <br>
 
 ## What I'm Up To 😄
-🔭 Starting a new job atRevology Health <br>
+🔭 Starting a new job at: Revology Health <br>
 🌱 What I am currently learning: Microservices  <br>
 💬 Ask me about my experience as a Coding Bootcamp Teaching Assistant <br>
 📫 How to reach me: rob.evanik@gmail.com <br>
